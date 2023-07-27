@@ -1,5 +1,5 @@
 #!/bin/bash
-cp -r /root/sentense/sentense/*.json /root/hitokoto/
+cp -r /root/sentences/sentences/*.json /root/hitokoto/
 
 function git_command {
 git add .
