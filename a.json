@@ -1076,5 +1076,33 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "78",
+        "uuid": "6b60ffba-8790-46c6-af68-1f281a147b1f",
+        "hitokoto": "自动挡太伟大了，不用一边开车一边在心里祈祷别熄火(",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
+    },
+    {
+        "id": "79",
+        "uuid": "06207249-9c95-48fc-ac92-08e26ded068a",
+        "hitokoto": "一边开一边习惯性地用右手打转向灯，然后打开了雨刷",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
