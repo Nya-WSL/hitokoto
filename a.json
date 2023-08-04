@@ -1244,5 +1244,33 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "90",
+        "uuid": "f95817b8-b25a-469f-a62b-1a44762cbc48",
+        "hitokoto": "只有爱是什么都拯救不了",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
+    },
+    {
+        "id": "91",
+        "uuid": "cd3ccb75-c146-4b82-a98e-4e1c13043c51",
+        "hitokoto": "need,more,power（",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
