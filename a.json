@@ -1454,5 +1454,19 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "105",
+        "uuid": "687660de-d513-4587-8c88-d4e5d9a21fa6",
+        "hitokoto": "这一天到达的几率就和群友不傲娇了一样",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
