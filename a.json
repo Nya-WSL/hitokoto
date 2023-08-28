@@ -1468,5 +1468,33 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "106",
+        "uuid": "319c6450-92d6-4321-9036-1d092700e411",
+        "hitokoto": "已经是没办法长时间睡觉的老年人了(",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
+    },
+    {
+        "id": "107",
+        "uuid": "9a830313-d5b9-43da-86e8-dcdea6a4486d",
+        "hitokoto": "搞到充电器了嘻嘻嘻嘻嘻",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
