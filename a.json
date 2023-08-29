@@ -1496,5 +1496,19 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "108",
+        "uuid": "bd67145e-be6b-4c89-8e3d-d7b7f88c9cd6",
+        "hitokoto": "？怎么有人五分钟集四次卡",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
