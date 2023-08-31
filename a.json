@@ -1510,5 +1510,33 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "109",
+        "uuid": "183eaa78-73ae-43fb-ba15-68d983b402e1",
+        "hitokoto": "v我50待我篡位成功封你做副主任(",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
+    },
+    {
+        "id": "110",
+        "uuid": "bb8f11fa-94a8-4e09-be30-f6b54c8fef56",
+        "hitokoto": "终于看到这样的人绷不住了有种你小子也有今天的缺德感（",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
