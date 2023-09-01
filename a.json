@@ -1538,5 +1538,33 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "111",
+        "uuid": "4439b33b-c9b4-4d9c-9dac-ceec23fcc19c",
+        "hitokoto": "但我要摸鱼",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
+    },
+    {
+        "id": "112",
+        "uuid": "6bff7222-a938-4a69-bd3b-5b67b2ae3d1a",
+        "hitokoto": "《以后本群出现的，涵义不明的非指向性名词代词，一律视为指代小晨（》",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
