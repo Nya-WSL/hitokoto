@@ -1636,5 +1636,33 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "118",
+        "uuid": "e81cd457-0b3a-4656-aba0-050928067842",
+        "hitokoto": "饿死了，食堂还关了",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
+    },
+    {
+        "id": "119",
+        "uuid": "955e5143-2939-4d20-a5a1-262f52bae979",
+        "hitokoto": "上班哪有不集端的",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
