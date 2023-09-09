@@ -1664,5 +1664,19 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "120",
+        "uuid": "e27fe56a-e366-4cc0-a5ac-8ee006b77685",
+        "hitokoto": "你确定要刚从非洲回来的桑姨给你力量吗(",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
