@@ -2000,5 +2000,19 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "144",
+        "uuid": "0ac853d8-a587-484b-ade4-6cfc52e90d31",
+        "hitokoto": "是为了体现桑吉的简洁优雅风格才不是规避版权呢(",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
