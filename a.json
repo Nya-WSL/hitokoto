@@ -2014,5 +2014,19 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "145",
+        "uuid": "7e95f685-7fb3-424d-bff3-384e7e5723e6",
+        "hitokoto": "老旧派的桑姨还是更中意直接提刀的行动力病娇（",
+        "type": "a",
+        "from": "资本家聚集地",
+        "from_who": "桑吉Sage",
+        "creator": "桑吉Sage",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
