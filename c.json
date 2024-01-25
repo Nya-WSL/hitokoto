@@ -9896,5 +9896,47 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "708",
+        "uuid": "febaf365-67ca-4c18-8603-a02b10f10e7e",
+        "hitokoto": "兄弟，兄弟……",
+        "type": "c",
+        "from": "毕方",
+        "from_who": "毕方",
+        "creator": "毕方",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
+    },
+    {
+        "id": "709",
+        "uuid": "e2edd177-4256-4470-904e-5f864c185cc2",
+        "hitokoto": "如果是小晨的就不算变态",
+        "type": "c",
+        "from": "冰蓝IceBlue（不是傲娇）（疯了）（半清醒）",
+        "from_who": "冰蓝IceBlue（不是傲娇）（疯了）（半清醒）",
+        "creator": "冰蓝IceBlue（不是傲娇）（疯了）（半清醒）",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
+    },
+    {
+        "id": "710",
+        "uuid": "90906672-d40d-456a-857c-1a087ba2c1c4",
+        "hitokoto": "晨宝，你这个不守夫道的家伙🥵",
+        "type": "c",
+        "from": "晨宝的老公",
+        "from_who": "晨宝的老公",
+        "creator": "晨宝的老公",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
