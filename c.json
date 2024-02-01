@@ -9994,5 +9994,33 @@
         "commit_from": "web",
         "created_at": "1626590063",
         "length": "19"
+    },
+    {
+        "id": "715",
+        "uuid": "113ea504-89df-4ae1-b491-e421b28edb4d",
+        "hitokoto": "我，床上猛猛烧",
+        "type": "c",
+        "from": "冰蓝IceBlue（不是傲娇）（疯了）（半清醒）",
+        "from_who": "冰蓝IceBlue（不是傲娇）（疯了）（半清醒）",
+        "creator": "冰蓝IceBlue（不是傲娇）（疯了）（半清醒）",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
+    },
+    {
+        "id": "716",
+        "uuid": "791483eb-410e-4f4b-95f7-5922eb166f99",
+        "hitokoto": "昨日你在床上发情最积极，获得烧鸡魅魔称号",
+        "type": "c",
+        "from": "毕方",
+        "from_who": "毕方",
+        "creator": "毕方",
+        "creator_uid": "1",
+        "reviewer": "1",
+        "commit_from": "web",
+        "created_at": "1626590063",
+        "length": "19"
     }
 ]
