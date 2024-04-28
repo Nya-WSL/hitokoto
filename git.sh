@@ -1,5 +1,5 @@
 #!/bin/bash
-cp -r /root/sentences/sentences/*.json /root/hitokoto/
+cp -r /var/www/ss-ana/data/*.json /var/www/hitokoto
 
 function git_command {
 git add .
@@ -7,6 +7,6 @@ git commit -am "update"
 git push
 }
 
-cd /root/hitokoto
+cd /var/www/hitokoto
 git_command
 echo "已执行推送"
